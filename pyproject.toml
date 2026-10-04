@@ -1,0 +1,17 @@
+[project]
+name = "machinelearningproject-ct4101"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Rob Davidson", email = "your-email@example.com" }
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+machinelearningproject-ct4101 = "machinelearningproject_ct4101:main"
+
+[build-system]
+requires = ["uv_build>=0.12.10,<0.13.0"]
+build-backend = "uv_build"
