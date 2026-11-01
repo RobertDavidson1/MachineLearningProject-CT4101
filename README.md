@@ -10,7 +10,7 @@ uv sync
 # 3. Activate the virtual environment
 source .venv/bin/activate
 
-# 4. Run the Notebooks
+# 4. Run the Notebooks in order 00 -> 01 -> 02
 ```
 
 ### Project Structure
