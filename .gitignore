@@ -17,3 +17,8 @@ wheels/
 .venv
 *.log
 
+# IDE settings
+.vscode/settings.json
+
+# Writeups
+tex/*
